@@ -1,4 +1,8 @@
 # Implementation of Expressive Line Drawing Generation from Photographs
+
+<p align="center">
+  <img width="600" src="https://github.com/To-jak/Line_Drawing_Generation/blob/master/line_drawing_results.png">
+</p>
   
 */!\ My Colab notebook demo is not publicly available at the moment! /!\\*
   

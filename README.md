@@ -16,7 +16,7 @@ Computer Graphics Forum, volume 38, pages 69–80. Wiley Online Library, 2019.
   
 The authors present a method for automatically tracing high‐resolution photographs to create expressive line drawings. Given a photograph, an algorithm extracts expressive edges and creates a clean line drawing using a convolutional neural network (CNN).
   
-As the datasets mentioned in the paper are not public, I've rearranged and used another dataset introduced in
+As the datasets mentioned in the paper are not public, I've rearranged and used another dataset BIPED introduced in
   
 ```
 Dense extreme inception network: Towards a robust cnn model for edge detection.
